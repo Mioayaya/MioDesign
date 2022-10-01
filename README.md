@@ -30,6 +30,7 @@ yarn dev
 - 常量大写
 - 手机组件为 Mio+MB+···
 - PC端组件为 Mio+Web+···
+- 通用组件为 Mio+CM+···
 
 # 文件夹管理
 - 工具类写入 utils 文件夹中 采用 import * as 的方式导出
