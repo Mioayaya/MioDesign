@@ -39,6 +39,10 @@ yarn dev
 - type 为类型
 
 # todo ✅⬜
+- sakana ⬜
+  - 计算角度变化
+  - 优化轨迹
+  - 符合物理学规律
 
 # munu
 - 动画

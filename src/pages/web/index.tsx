@@ -3,6 +3,8 @@ import { NavLink } from 'react-router-dom'
 import MioCMHoverWhater from '../../components/ui/hover-whater'
 
 import MioWebTopNav from '../../components/web/top-nav'
+import SpringLearn01 from '../../ui-learn/spring/01'
+import SpringLearn02 from '../../ui-learn/spring/02'
 
 const MioWebIndex:React.FC = memo(() => {
   return (
@@ -22,8 +24,8 @@ const MioWebIndex:React.FC = memo(() => {
           <h1>child5</h1>
         </div>
       </MioWebTopNav>
-
-      <MioCMHoverWhater />
+        <SpringLearn01 />
+        <SpringLearn02 />
     </div>
   )
 })
